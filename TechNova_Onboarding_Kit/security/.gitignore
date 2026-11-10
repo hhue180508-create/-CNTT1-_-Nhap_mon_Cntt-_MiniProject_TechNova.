@@ -1,0 +1,4 @@
+# Secrets va file cau hinh rieng
+.env
+.env.*
+!.env.example
